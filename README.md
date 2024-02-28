@@ -26,16 +26,16 @@
     <Photo=IFPI, Big Hit Music>
     <Translated by=Gawon Park(Dispatch)>
       <h3> Rank 10 on IFPI</h3>
-      <ol> Taylor Swift </ol>
-      <ol> SEVENTEEN </ol>
-      <ol> StrayKids </ol>
-      <ol> Drake</ol>
-      <ol> The Weeknd </ol>
-      <ol>Morgan Waleen</ol>
-      <ol>TOMORROW X TOGETHER </ol>
-      <ol>New Jeans</ol>
-      <ol>Bad Bunny</ol>
-      <ol>Lana Del Rey</ol>
+      <ul> Taylor Swift </ul>
+      <ul> SEVENTEEN </ul>
+      <ul> StrayKids </ul>
+      <ul> Drake</ul>
+      <ul> The Weeknd </ul>
+      <ul>Morgan Waleen</ul>
+      <ul>TOMORROW X TOGETHER </ul>
+      <ul>New Jeans</ul>
+      <ul>Bad Bunny</ul>
+      <ul>Lana Del Rey</ul>
   </body>
 </head>
   </body>
