@@ -6,7 +6,7 @@
   <body> 
     <headr>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_jl3RJnXVC_naYR68ZUF60PsZ33tHvZjfCQ37jRZzF3Hf1Fescf_-B7Ehg&s"/>
-      <h1>Meu Portal de Notíccias with Dispatch</h1>
+      <h1>Meu Portal de Notícias with Dispatch</h1>
     </headr>
   <h2> BTS Jungkook Ranks10th on IFPI 'Global Single Chart</h2> 
   <h3> by.Gawon Park 02/27/2024 02:40 ET </h3>
@@ -30,22 +30,28 @@
     </p>
     <Photo=IFPI, Big Hit Music>
     <Translated by=Gawon Park(Dispatch)>
-      <h3> Rank 10 on IFPI</h3>
-      <ul> Taylor Swift </ul>
-      <ul> SEVENTEEN </ul>
-      <ul> StrayKids </ul>
-      <ul> Drake</ul>
-      <ul> The Weeknd </ul>
-      <ul>Morgan Waleen</ul>
-      <ul>TOMORROW X TOGETHER </ul>
-      <ul>New Jeans</ul>
-      <ul>Bad Bunny</ul>
-      <ul>Lana Del Rey</ul>
+      <h4> Rank 10 on IFPI</h3>
+      <ol> 
+        <li>Taylor Swift </li>
+        <li> SEVENTEEN </li>
+        <li> StrayKids </li>
+        <li> Drake</li>
+        <li> The Weeknd </li>
+        <li>Morgan Waleen</li>
+        <li>TOMORROW X TOGETHER </li>
+        <li>New Jeans</li>
+        <li>Bad Bunny</li>
+        <li>Lana Del Rey</li>
+      </ol>
+      <p> Fonte:Dispatch Online</p>
+    <footer>
+      <ul>
+        <li>https://www.instagram.com/koreadispatch/</li>
+        <li>https://twitter.com/dispatchsms</li>
+        <li>https://www.tiktok.com/@dispatch_tiktok</li>
+        <li>https://www.facebook.com/koreadispatch/?locale=pt_BR</li>
+      </ul>
+    </footer>
   </body>
 </head>
-<footer>
-  <ul>https://www.instagram.com/koreadispatch/</ul>
-  <ul>https://twitter.com/dispatchsms</ul>
-  <ul>https://www.tiktok.com/@dispatch_tiktok</ul>
-  <ul>https://www.facebook.com/koreadispatch/?locale=pt_BR</ul>
-</footer>
+    
