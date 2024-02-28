@@ -1,5 +1,7 @@
 # new.html
 !DOCTYPE <html>
+<header>![image](https://github.com/ceciliassilva/new.html/assets/161335301/878b6620-4fad-4c3f-bace-3315cf1868ea)
+</header>
 <head>
   <title> Notícia.html</title>
   <body> 
