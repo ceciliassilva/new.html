@@ -1,12 +1,15 @@
 # new.html
 !DOCTYPE <html>
-<header>![img](https://github.com/ceciliassilva/new.html/assets/161335301/6c9b01d8-5cf0-4bf9-aa6e-3133b802ffb3)
-</header>
 <head>
-  <title> Notícia.html</title>
+  <title>Notícia.html</title>
+  <main></main>
   <body> 
-  <h1> BTS Jungkook Ranks10th on IFPI 'Global Single Chart</h1> 
-  <h2> by.Gawon Park 02/27/2024 02:40 ET </h2>
+    <headr>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_jl3RJnXVC_naYR68ZUF60PsZ33tHvZjfCQ37jRZzF3Hf1Fescf_-B7Ehg&s"/>
+      <h1>Meu Portal de Notíccias with Dispatch</h1>
+    </headr>
+  <h2> BTS Jungkook Ranks10th on IFPI 'Global Single Chart</h2> 
+  <h3> by.Gawon Park 02/27/2024 02:40 ET </h3>
     <p>
       BTS member Jungkook has made it to the top 10 of the International Federation of the Phonographic Industry <abbr>(IFPI)</abbr> '2023 Global Single Chart.'
     </p>
@@ -40,5 +43,9 @@
       <ul>Lana Del Rey</ul>
   </body>
 </head>
-  </body>
-</head>
+<footer>
+  <ul>https://www.instagram.com/koreadispatch/</ul>
+  <ul>https://twitter.com/dispatchsms</ul>
+  <ul>https://www.tiktok.com/@dispatch_tiktok</ul>
+  <ul>https://www.facebook.com/koreadispatch/?locale=pt_BR</ul>
+</footer>
