@@ -1,6 +1,6 @@
 # new.html
 !DOCTYPE <html>
-<header>![image](https://github.com/ceciliassilva/new.html/assets/161335301/878b6620-4fad-4c3f-bace-3315cf1868ea)
+<header>![img](https://github.com/ceciliassilva/new.html/assets/161335301/6c9b01d8-5cf0-4bf9-aa6e-3133b802ffb3)
 </header>
 <head>
   <title> Notícia.html</title>
